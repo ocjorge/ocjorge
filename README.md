@@ -1,6 +1,6 @@
 # Hi, I'm Jorge Ortiz 👋
 
-<img align="right" src="./jorge-coding-retro.gif" width="300" alt="Jorge coding">
+<img align="right" src="./jorge-coding-yorkie.gif" width="300" alt="Jorge coding">
 
 ### Software · Data · Finance
 
