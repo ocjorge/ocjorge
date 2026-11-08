@@ -20,7 +20,7 @@ practical solutions with code and data.
   for freshwater cyanobacteria classification.
 - 🐧 **OpenCATS on Debian** — hardened recruiting platform on RAID 5 + LVM,
   Fail2Ban, firewalld, auditd, with PHP 8.4 compatibility patches.
-- ⚙️ **Automation** — n8n workflows (Gmail → WordPress), CDN image pipeline,
+- ⚙️ **Automation** — n8n workflows, CDN image pipeline,
   and VPS performance tuning (PHP-FPM, Redis, MariaDB/InnoDB).
 
 ## 🤝 Open source
